@@ -1,6 +1,6 @@
 # Capital Bikeshare: A Look at Ridership Patterns in 2023
 
-This repository contains code and analysis related to Capital Bikeshare trip data for the year 2023. 
+This repository contains code and analysis related to Capital Bikeshare trip data for the year 2023.  
 The data is publicly available from the Capital Bikeshare [website](https://capitalbikeshare.com/system-data) and used in accordance with their Data License Agreement: [Capital Bikeshare Data License](https://www.capitalbikeshare.com/data-license-agreement).
 
 ## Project Goals
